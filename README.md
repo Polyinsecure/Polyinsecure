@@ -2,10 +2,6 @@ Hi, I’m Polyinsecure.
 
 I want to be a respectable software engineer. (High target, I know)
 
-I’m interested in Python and Rust, maybe also C.
-
-I want to have enough skills so that I'll be able to implement an IRC daemon.
-
 Have a nice day!
 
 <!---
