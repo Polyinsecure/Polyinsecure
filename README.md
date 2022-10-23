@@ -4,7 +4,6 @@ I want to be a respectable software engineer. (High target, I know)
 
 Have a nice day!
 
-<!---
-Polyinsecure/Polyinsecure is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Logs:
+
+2022-10-23: Finally able to actually use the git command line application (woo!)
